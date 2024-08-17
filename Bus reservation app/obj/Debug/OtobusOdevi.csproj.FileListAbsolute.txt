@@ -1,0 +1,20 @@
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\bin\Debug\OtobusOdevi.exe.config
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\bin\Debug\OtobusOdevi.exe
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\bin\Debug\OtobusOdevi.pdb
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.csprojAssemblyReference.cache
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.Form1.resources
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.Properties.Resources.resources
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.csproj.GenerateResource.cache
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.exe
+C:\Users\OSMAN ÖMER\source\repos\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.pdb
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\bin\Debug\OtobusOdevi.exe.config
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\bin\Debug\OtobusOdevi.exe
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\bin\Debug\OtobusOdevi.pdb
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.csprojAssemblyReference.cache
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.Form1.resources
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.Properties.Resources.resources
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.csproj.GenerateResource.cache
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.exe
+C:\Users\OSMAN ÖMER\source\repos\OSMAN GÜNER__OTOBÜS ÖDEVİ\20190311OtobusOdevi\OtobusOdevi\obj\Debug\OtobusOdevi.pdb
